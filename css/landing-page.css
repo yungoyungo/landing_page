@@ -125,3 +125,11 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+.header-right {
+  float:right;
+}
+
+.header-right a {
+  padding: 10px!important;
+}
